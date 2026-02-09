@@ -83,6 +83,7 @@ xnor(z,a,b);
 endmodule
 ```
 **Logic symbol & Truthtable**
+![WhatsApp Image 2026-02-09 at 7 22 02 PM](https://github.com/user-attachments/assets/8ccd6977-534b-4ff2-872d-a36504713554)
 
 **RTL realization Output:** 
 <img width="659" height="704" alt="Screenshot 2026-02-09 191347" src="https://github.com/user-attachments/assets/acfe8e1a-aedb-4df2-93b6-acd9c6e37f74" />
@@ -91,5 +92,5 @@ endmodule
 <img width="1919" height="1041" alt="Screenshot 2026-02-09 184923" src="https://github.com/user-attachments/assets/1fc7bc52-0445-4f08-9a06-93ff9676bb28" />
 
 **Result:**
-thus the basic logic gates are studied and the truth tables are verified.
+Thus the basic logic gates are studied and the truth tables are verified.
 

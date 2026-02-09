@@ -96,6 +96,14 @@ endmodule
 
 
 
+
+
+
+
+
+
+
+
 **RTL**
 <img width="1919" height="1041" alt="Screenshot 2026-02-09 184923" src="https://github.com/user-attachments/assets/1fc7bc52-0445-4f08-9a06-93ff9676bb28" />
 
